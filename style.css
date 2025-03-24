@@ -33,11 +33,11 @@ body {
   }
 
   .title{
-    margin: 7vh 0vh;
+    margin: 5vh 0vh;
   }
   
   .month-block {
-    margin-bottom: 7vh;
+    margin-bottom: 5vh;
   }
   
   .month-title {
@@ -55,7 +55,7 @@ body {
   
   .grid img {
     width: 100%;
-    max-width: 250px;
+    max-width: 120px;
     height: auto;
     object-fit: cover;
     border-radius: 3px;
