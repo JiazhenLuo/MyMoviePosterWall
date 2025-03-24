@@ -89,7 +89,7 @@ bar_fig = go.Figure(data=[
 ])
 
 bar_fig.update_layout(
-    title="🎞️ Distribution of Ratings of Movies I've Watched",
+    title="🎞️ Distribution of Ratings of Movies I've Watched(Jan - Mar)",
     xaxis_title="Rating",
     yaxis_title="Count",
     plot_bgcolor='white',
